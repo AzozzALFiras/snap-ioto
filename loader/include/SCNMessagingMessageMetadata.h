@@ -1,0 +1,2 @@
+@interface SCNMessagingMessageMetadata : NSObject
+@end

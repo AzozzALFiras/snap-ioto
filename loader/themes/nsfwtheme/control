@@ -1,0 +1,8 @@
+Package: com.kanji.nsfw
+Name: NSFWGhost
+Version: 1.0
+Architecture: iphoneos-arm
+Description: NSFW reload theme for relicloader
+Maintainer: Kanji
+Author: Kanji
+Section: Themes

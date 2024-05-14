@@ -1,0 +1,11 @@
+Package: com.sema.null
+Name: null
+Depends: mobilesubstrate (>= 0.9.5.000)
+Replaces: com.no5up-kanji.librelic
+Conflicts: com.no5up-kanji.librelic
+Version: 1.1
+Architecture: iphoneos-arm
+Description: the library that iota runs on to stay undetected.
+Maintainer: Sema
+Author: Sema
+Section: Development

@@ -1,0 +1,11 @@
+Package: dev.sema.iota
+Name: iota
+Depends: mobilesubstrate, com.sema.null
+Replaces: com.wyattgahm.shadowx
+Architecture: iphoneos-arm
+Description: Revived from the dead, iota is a free alternative to Wicked. It is based off the source code that Kanji posted.
+Maintainer: Sema
+Author: Sema
+Section: Tweaks
+Version: 2.2-1+debug
+Installed-Size: 1104
